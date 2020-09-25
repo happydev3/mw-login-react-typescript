@@ -1,0 +1,44 @@
+{
+    "alerts.forgot.header": "Code sent.",
+    "alerts.forgot.content": "We sent a verification code to your email.",
+
+    "alerts.network.header": "Not Permitted",
+    "alerts.network.content": "You are trying to log in to a network without permission. Please contact your manager.",
+
+    "alerts.session.header": "Ongoing Session",
+    "alerts.session.content": "There is another session in progress with that user, if you continue the session will be ended. Do you want to end the other session?",
+
+    "alerts.time.header": "Access time:",
+    "alerts.time.content": "You are trying to log in outside the allowed hours. Please contact your manager.",
+
+    "code.header.main": "Reset password",
+    "code.header.subheader": "Enter the code in the field below",
+    "code.button.submit": "Confirm",
+    "code.placeholder.code": "Enter code",
+    "code.not_received": "Didn't receive the code?",
+    "code.resend": "Send again",
+
+    "recover.header.main": "Reset password",
+    "recover.button.submit": "Reset",
+    "recover.placeholder.password": "Enter password",
+    "recover.placeholder.password_confirm": "Enter password",
+
+    "login.button.submit": "Send",
+    "login.header.main": "Access data",
+    "login.label.account": "Contracting party",
+    "login.label.username": "User",
+    "login.label.password": "Password",
+    "login.label.remember": "Remember me",
+    "login.placeholder.account": "Enter contracting ID",
+    "login.placeholder.username": "Enter your username",
+    "login.placeholder.password": "Enter your password",
+    "login.forgot": "Forgot your password?",
+
+    "terms.header": "Privacy Policy & Terms",
+    "terms.accept": "I accept the privacy policy and terms of use",
+
+    "generic.back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "generic.continue": "Continue"
+}

@@ -1,0 +1,44 @@
+{
+    "alerts.forgot.header": "Código enviado",
+    "alerts.forgot.content": "Enviamos um código de verificação no seu e-mail.",
+
+    "alerts.network.header": "Rede não Permitida",
+    "alerts.network.content": "Você esta tentando logar em uma rede sem permissão. Por favor, entre em contato com seu responsável.",
+
+    "alerts.session.header": "Sessão em Andamento",
+    "alerts.session.content": "Existe outra sessão em andamento com esse usuário, se você continuar a sessão será encerrada. Deseja encerrar a outra sessão?",
+
+    "alerts.time.header": "Horário de Acesso",
+    "alerts.time.content": "Você está tentando logar fora do horário permitido. Por favor, entre em contato com o seu responsável.",
+
+    "code.header.main" : "Redefinir senha",
+    "code.header.subheader" : "Digite o código no campo abaixo",
+    "code.button.submit": "Confirmar",
+    "code.placeholder.code": "Digite o Código",
+    "code.not_received": "Não recebeu o código?",
+    "code.resend": "Enviar novamente",
+
+    "recover.header.main" : "Redefinir senha",
+    "recover.button.submit": "Redefinir",
+    "recover.placeholder.password": "Digite uma senha",
+    "recover.placeholder.password_confirm": "Digite uma senha",
+
+    "login.button.submit": "Enviar",
+    "login.header.main": "Dados de Acesso",
+    "login.label.account": "Contratante",
+    "login.label.username": "Usuário",
+    "login.label.password": "Senha",
+    "login.label.remember": "Lembrar-me",
+    "login.placeholder.account": "Digite o ID contratante",
+    "login.placeholder.username": "Digite seu usuário",
+    "login.placeholder.password": "Digite sua senha",
+    "login.forgot": "Esqueceu sua senha?",
+
+    "terms.header": "Política de Privacidade e Termos de Uso",
+    "terms.accept": "Aceito a política de privacidade e termos de uso",
+
+    "generic.back": "Voltar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "generic.continue": "Continuar"
+}
